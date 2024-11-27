@@ -19,6 +19,8 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
+
+
 h1 {
   font-size:28px;
   font-weight: 500;
@@ -193,6 +195,8 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+
 
 @media print, screen and (max-width: 960px) {
 
